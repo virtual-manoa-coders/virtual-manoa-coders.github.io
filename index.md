@@ -1,6 +1,7 @@
 ## Table of contents
 
 * [The Team](#the-team)
+* [Project Goal](#project-goal)
 
 ## The Team
 
