@@ -10,5 +10,5 @@
 * Christian
 * Sophia R.
 * Patima
-* Jaijun
+* Jiajun
 * Angela
