@@ -43,6 +43,6 @@ Front end developers will begin converting mockups to React pages.
 <img src="images/screen4.png">
 <img src="images/screen6.png">
 
-Backend developers will start on creating functions for basic conversions (e.g., converting miles travled to GHG emissions), and comparing users' current vehicles to more sustainable options.
+Backend developers will start on creating functions for basic conversions (e.g., converting miles traveled to GHG emissions), and comparing users' current vehicles to more sustainable options.
 
 
