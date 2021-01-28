@@ -7,7 +7,7 @@
 * [The Team](#the-team)
 
 ## Project Goal
-<p> Our goal is to create an application where users can track their daily, weekly, monthly, or annual greenhouse emission, and how their data lines up with other people in the same area. </p>
+<p> Our goal is to create an application to encourage the community to be more mindful of how they commute to reduce greenhouse gas emissions (GHG) associated with transportation. Users can track their daily, weekly, monthly, or annual GHG, and how their data lines up with other people in the same area. </p>
 
 ## Meeting Summaries
 
