@@ -1,19 +1,10 @@
 ## Table of contents
 
-* [The Team](#the-team)
 * [Project Goal](#project-goal)
 * [Meeting Summaries](#meeting-summaries)
-
-## The Team
-
-* [Taylor](https://github.com/tgabatin)
-* [Edwin](https://github.com/edwin-zheng)
-* [Braden](https://github.com/bradenbetz)
-* [Christian](https://github.com/christianjensenv)
-* [Sophia R.]()
-* [Patima](https://github.com/patimapoochai)
-* [Jiajun](https://github.com/JiajunK)
-* [Angela](https://github.com/angcylau)
+* [Application Design](#application-design)
+* [Mockup Pages](#mockup-pages)
+* [The Team](#the-team)
 
 ## Project Goal
 <p> Our goal is to create an application where users can track their daily, weekly, monthly, or annual greenhouse emission, and how their data lines up with other people in the same area. </p>
@@ -46,3 +37,13 @@ Front end developers will begin converting mockups to React pages.
 Backend developers will start on creating functions for basic conversions (e.g., converting miles traveled to GHG emissions), and comparing users' current vehicles to more sustainable options.
 
 
+## The Team
+
+* [Taylor](https://github.com/tgabatin)
+* [Edwin](https://github.com/edwin-zheng)
+* [Braden](https://github.com/bradenbetz)
+* [Christian](https://github.com/christianjensenv)
+* [Sophia R.]()
+* [Patima](https://github.com/patimapoochai)
+* [Jiajun](https://github.com/JiajunK)
+* [Angela](https://github.com/angcylau)
