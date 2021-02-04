@@ -9,15 +9,18 @@
 ## Project Goal
 <p> Our goal is to create an application to encourage the community to be more mindful of how they commute to reduce greenhouse gas (GHG) emissions associated with transportation. Users can track their daily, weekly, monthly, or annual GHG, and how their data lines up with other people in the same area. </p>
 
-## Meeting Summaries
+## The Team
 
-### 01/21/2021
-<p> We came up with a general goal and assignments for each team member. The assignment is as follows:</p>
-<ul><li> Design & Mockup: Jiajun & Sophia </li>
-  <li> Math function: Christian & Angela </li>
-  <li> Database schema: Patima & Taylor </li>
-  <li> Login & user account : Branden & Edwin </li></ul>
-<p> Because some of these assignments are harder than the other, we do not have set dates for completion just yet. We want to get our feet wet and find out what we need as we go for now. </p>
+* [Taylor](https://github.com/tgabatin)
+* [Edwin](https://github.com/edwin-zheng)
+* [Braden](https://github.com/bradenbetz)
+* [Christian](https://github.com/christianjensenv)
+* [Sophia R.]()
+* [Patima](https://github.com/patimapoochai)
+* [Jiajun](https://github.com/JiajunK)
+* [Angela](https://github.com/angcylau)
+
+## Meeting Summaries
 
 ### 01/28/2021
 
@@ -36,14 +39,10 @@ Front end developers will begin converting mockups to React pages.
 
 Backend developers will start on creating functions for basic conversions (e.g., converting miles traveled to GHG emissions), and comparing users' current vehicles to more sustainable options.
 
-
-## The Team
-
-* [Taylor](https://github.com/tgabatin)
-* [Edwin](https://github.com/edwin-zheng)
-* [Braden](https://github.com/bradenbetz)
-* [Christian](https://github.com/christianjensenv)
-* [Sophia R.]()
-* [Patima](https://github.com/patimapoochai)
-* [Jiajun](https://github.com/JiajunK)
-* [Angela](https://github.com/angcylau)
+### 01/21/2021
+<p> We came up with a general goal and assignments for each team member. The assignment is as follows:</p>
+<ul><li> Design & Mockup: Jiajun & Sophia </li>
+  <li> Math function: Christian & Angela </li>
+  <li> Database schema: Patima & Taylor </li>
+  <li> Login & user account : Branden & Edwin </li></ul>
+<p> Because some of these assignments are harder than the other, we do not have set dates for completion just yet. We want to get our feet wet and find out what we need as we go for now. </p>
