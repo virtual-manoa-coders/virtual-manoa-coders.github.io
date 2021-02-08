@@ -23,7 +23,7 @@
 ## Meeting Summaries
 
 ### 02/04/2021
-####
+
 ####Mockups 
 <p>Our about page is up:</p>
 <img src="images/about-page.png">
