@@ -24,7 +24,7 @@
 
 ### 02/04/2021
 
-####Mockups 
+#### Mockups 
 <p>Our about page is up:</p>
 <img src="images/about-page.png">
 
@@ -34,7 +34,7 @@
 <p>Also we now have a polished logo to use for our web application to further bring together our ideas about what we are trying to achieve:</p>
 <img src="images/logo.png">
 
-####Progress
+#### Progress
 <p>We also have a more clear idea of how we are going to accomplish our issues to keep us on track for Milestone 2.</p>
 
 ### 01/28/2021
