@@ -61,3 +61,10 @@ Backend developers will start on creating functions for basic conversions (e.g.,
   <li> Database schema: Patima & Taylor </li>
   <li> Login & user account : Branden & Edwin </li></ul>
 <p> Because some of these assignments are harder than the other, we do not have set dates for completion just yet. We want to get our feet wet and find out what we need as we go for now. </p>
+
+### 02/09/2021
+<p> Updated information on assignments for team members for presentation on Thursday. </p>
+<ul><li>Work on the basic databases for the program, find out which car emissions are most popular in Hawaii</li>
+    <li> Work on the comparator page for the cars </li></ul>
+<p> We hope to have a functioning layout page by the base presentation date. We will focus on functionality of the site after M1. Primary focus is to link the pages together and get a base understanding of how we want the flow of our application to work. </p>
+     
