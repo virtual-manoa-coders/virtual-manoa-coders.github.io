@@ -24,6 +24,17 @@
 <p> Basic mockup of the app has been created and mockups for individual pages has been linked. </p>
 <p> Comparator page has also been added, and the About Us page has also been updated. </p>
 
+
+
+## Updated Mockups
+<p> New car comparator page with some minor functionality. </p>
+<img src="images/comparator1.PNG">
+<img src="images/comparator2.PNG">
+<p> Updated login page. </p>
+<img src="images/login.PNG">
+<p> Updated about page. </p>
+<img src="images/about.PNG">
+
 ## Meeting Summaries
 
 ### 02/04/2021
@@ -34,6 +45,7 @@
 
 <p>Members worked on additional ideas for how our car comparator should look:</p>
 <img src="images/car_comparator_mock.png">
+
 
 <p>Also we now have a polished logo to use for our web application to further bring together our ideas about what we are trying to achieve:</p>
 <img src="images/logo.png">
