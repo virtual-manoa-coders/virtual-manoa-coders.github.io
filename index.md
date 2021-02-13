@@ -21,8 +21,8 @@
 * [Angela](https://github.com/angcylau)
 
 ## Milestone 1 Completed
-<p> Basic mockup of the app has been created and mockups for individual pages has been linked. <p>
-<p> Comparator page has also been added, and the About Us page has also been updated. <p>
+<p> Basic mockup of the app has been created and mockups for individual pages has been linked. </p>
+<p> Comparator page has also been added, and the About Us page has also been updated. </p>
 
 ## Meeting Summaries
 
