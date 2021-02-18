@@ -83,4 +83,7 @@ Backend developers will start on creating functions for basic conversions (e.g.,
 <ul><li>Work on the basic databases for the program, find out which car emissions are most popular in Hawaii</li>
     <li> Work on the comparator page for the cars </li></ul>
 <p> We hope to have a functioning layout page by the base presentation date. We will focus on functionality of the site after M1. Primary focus is to link the pages together and get a base understanding of how we want the flow of our application to work. </p>
+
+### 02/16/2021
+<p> We decided on Project Malama as a name. We're mostly ready for Thursday, but have to make small tweaks to prepare for the meeting with the client.</p>
      
