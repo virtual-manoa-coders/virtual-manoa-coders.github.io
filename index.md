@@ -49,6 +49,12 @@ The following tasks were accomplish in milestone 2:
   <li> Integrating CO2 and emission calculation into the application </li>
 </ul>
 
+### Updated pages
+<img src="images/community1.png">
+<img src="images/dashboard1.png">
+<img src="images/home1.png">
+
+
 <p> After completing milestone 2, we moved any unfinished tasks to milestone 3. We generate the tasks for the next milestone as a team, and the tasks are as follows:</p>
 
 <ul>
