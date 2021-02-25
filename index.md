@@ -35,6 +35,33 @@
 <p> Updated about page. </p>
 <img src="images/about.PNG">
 
+## Milestone 2 Completed
+### 02/25/2021
+<p>
+The following tasks were accomplish in milestone 2:
+</p>
+
+<ul>
+  <li> Revamp the dashboard </li>
+  <li> Rework and integrate the databases: UserTransportation, UserInfo, UserVehicles </li>
+  <li> Redesign the landing page and home page </li>
+  <li> Create basic visualization: pie charts, CO2 table, dashboard statistics </li>
+  <li> Integrating CO2 and emission calculation into the application </li>
+</ul>
+
+<p> After completing milestone 2, we moved any unfinished tasks to milestone 3. We generate the tasks for the next milestone as a team, and the tasks are as follows:</p>
+
+<ul>
+  <li> Rework landing page </li>
+  <li> Create page footer </li>
+  <li> Fix landing page's text overlap on small screen </li>
+  <li> Add a widget comparing weekly average vs daily CO2 saved to the dashboard </li>
+  <li> Add widgets that show user's historical data to the dashboard </li>
+  <li> Continue working on emission calculator </li>
+  <li> Add a component to compare user data against existing data from online APIs on dashboard </li>
+  <li> Add widgets that visualize user data vs the community data to the community page </li>
+</ul>
+
 ## Meeting Summaries
 
 ### 02/04/2021
@@ -86,30 +113,3 @@ Backend developers will start on creating functions for basic conversions (e.g.,
 
 ### 02/16/2021
 <p> We decided on Project Malama as a name. We're mostly ready for Thursday, but have to make small tweaks to prepare for the meeting with the client.</p>
-
-## Milestone 2 Completed
-### 02/25/2021
-<p>
-The following tasks were accomplish in milestone 2:
-</p>
-
-<ul>
-  <li> Revamp the dashboard </li>
-  <li> Rework and integrate the databases: UserTransportation, UserInfo, UserVehicles </li>
-  <li> Redesign the landing page and home page </li>
-  <li> Create basic visualization: pie charts, CO2 table, dashboard statistics </li>
-  <li> Integrating CO2 and emission calculation into the application </li>
-</ul>
-
-<p> After completing milestone 2, we moved any unfinished tasks to milestone 3. We generate the tasks for the next milestone as a team, and the tasks are as follows:</p>
-
-<ul>
-  <li> Rework landing page </li>
-  <li> Create page footer </li>
-  <li> Fix landing page's text overlap on small screen </li>
-  <li> Add a widget comparing weekly average vs daily CO2 saved to the dashboard </li>
-  <li> Add widgets that show user's historical data to the dashboard </li>
-  <li> Continue working on emission calculator </li>
-  <li> Add a component to compare user data against existing data from online APIs on dashboard </li>
-  <li> Add widgets that visualize user data vs the community data to the community page </li>
-</ul>
