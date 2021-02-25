@@ -50,8 +50,11 @@ The following tasks were accomplish in milestone 2:
 </ul>
 
 ### Updated pages
+<p> Community page </p>
 <img src="images/community1.png">
+<p> Dashboard page </p>
 <img src="images/dashboard1.png">
+<p> Home page </p>
 <img src="images/home1.png">
 
 
