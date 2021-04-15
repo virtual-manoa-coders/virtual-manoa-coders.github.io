@@ -38,6 +38,8 @@
 <img src="images/register.PNG" width=500px>
 <p>Of course the users have to start somewhere. This is the page where user can either sign in to their pre-existing accounts, or sign up for a new one. </p>
 
+## Future Updates
+<p>This project is still a work in progress. Please follow our Github project board to see our upcoimng updates and plans for this app. </p>
   
 
 ## The Team
