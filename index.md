@@ -8,7 +8,7 @@
 
 
 ## Overview
-<p> Our goal is to create an application to encourage the community to be more mindful of how they commute to reduce greenhouse gas (GHG) emissions associated with transportation. Users can track their daily, weekly, monthly, or annual GHG, and how their data lines up with other people in the same area. </p>
+<p> Our goal is to create an application to encourage the community to be more mindful of how they commute to reduce greenhouse gas (GHG) emissions associated with transportation. Users can track their daily, weekly, monthly, or annual GHG, and how their data lines up with other people in the same area. <a href="https://projectmalama.com/#/">Click here to visit Project Malama</a></p>
 
 ## Current Screenshots
 <h4> Landing </h4>
